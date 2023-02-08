@@ -19,7 +19,15 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Path Planning
 
-* **D2CoPlan**: "D2CoPlan: A Differentiable Decentralized Planner for Multi-Robot Coverage", *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2209.09292v1.pdf)]
+* **D2CoPlan**: "D2CoPlan: A Differentiable Decentralized Planner for Multi-Robot Coverage", *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2209.09292v1.pdf)]  [[Website](http://raaslab.org/projects/d2coplan.html)]
+
+* **Calvin**: "Towards real-world navigation with deep differentiable planners", *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ishida_Towards_Real-World_Navigation_With_Deep_Differentiable_Planners_CVPR_2022_paper.pdf)] [[Blog](https://www.robots.ox.ac.uk/~vgg/blog/calvin-a-neural-network-that-can-learn-to-plan-and-navigate-unknown-environments.html)]  [[Code](https://github.com/shuishida/calvin)]
+
+* **DiffStack**: "DiffStack: A Differentiable and Modular Control Stack for Autonomous Vehicles", *CoRL 2022*. [[Paper](https://openreview.net/forum?id=teEnA3L4aRe)]  [[Website](https://sites.google.com/view/diffstack)]  [[Code](https://github.com/NVlabs/diffstack)]
+
+* **SPT**: "Differentiable Spatial Planning using Transformers", *ICLR 2021*. [[Paper](https://devendrachaplot.github.io/papers/icml21-spatial-planning-transformers.pdf)]  [[Website](https://devendrachaplot.github.io/projects/spatial-planning-transformers)]  [[Talk](https://www.youtube.com/watch?v=qwAwwgPju1A&feature=youtu.be)]
+
+* **dGPMP2**: "Differentiable Gaussian Process Motion Planning", *ICRA 2020*. [[Paper](https://arxiv.org/abs/1907.09591)]  [[Code](https://github.com/mhmukadam/dgpmp2)]
 
 * **Trajectron++**: "Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data", *ECCV 2020*. [[Paper](https://arxiv.org/abs/2001.03093)]  [[Code](https://github.com/StanfordASL/Trajectron-plus-plus)]
 
