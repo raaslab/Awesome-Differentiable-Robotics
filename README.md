@@ -62,6 +62,12 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## Optimization
+Differentiable optimization-aided approaches
+
+* "Learning to Sequence and Blend Robot Skills via Differentiable Optimization", *RAL 2022*. [[Paper](https://arxiv.org/abs/2206.00559)]  [[Code](https://github.com/NoemieJaquier/sequencing-blending/)]  [[Video](https://youtu.be/00NXvTpL-YU)]
+
+* "Differentiable MPC for End-to-end Planning and Control", *NeurIPS 2018*. [[Paper](https://arxiv.org/abs/1810.13400)]  [[Code](https://github.com/locuslab/differentiable-mpc)]
+
 
 ----
 ## Citation
