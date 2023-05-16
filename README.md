@@ -54,6 +54,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Control
 
+* "BarrierNet: Differentiable Control Barrier Functions for Learning of Safe Robot Control", "TRO 2023". [[Paper](https://ieeexplore.ieee.org/document/10077790)]  [[Code](https://github.com/Weixy21/BarrierNet)]
+
 * "An End-to-End Differentiable Framework for Contact-Aware Robot Design", *RSS 2021*. [[Paper](https://people.csail.mit.edu/jiex/papers/DiffHand/paper.pdf)]  [[Website](http://diffhand.csail.mit.edu/)]  [[Code](https://github.com/eanswer/DiffHand)]
 
 * **Deluca**: "Learning Constrained Adaptive Differentiable Predictive Control Policies With Guarantees", *DiffCVGP Workshop NeurIPS 2020*. [[Paper](https://arxiv.org/abs/2004.11184)]  [[Code](https://github.com/pnnl/deps_arXiv20204)]
